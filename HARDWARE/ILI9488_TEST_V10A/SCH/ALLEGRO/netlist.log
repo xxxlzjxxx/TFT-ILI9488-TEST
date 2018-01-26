@@ -1,0 +1,16 @@
+{ Using PSTWRITER 17.2.0 d001Jan-26-2018 at 11:03:54 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.13" ignored for U16: MAIN, 02 TFT (114.30, 35.56). Connecting pin to net "T_BUSY".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.7" ignored for U16: MAIN, 02 TFT (114.30, 35.56). Connecting pin to net "GND".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U16.8" ignored for U16: MAIN, 02 TFT (114.30, 35.56). Connecting pin to net "GND".
+#4 WARNING(ORCAP-36006): Part Name "CONN RCPT 17X2_TFTLCD_3R5_HEADER17X2_2R54" is renamed to "CONN RCPT 17X2_TFTLCD_3R5_HEADE".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\GitHub\TFT-ILI9488-TEST\HARDWARE\ILI9488_TEST_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\GitHub\TFT-ILI9488-TEST\HARDWARE\ILI9488_TEST_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\GitHub\TFT-ILI9488-TEST\HARDWARE\ILI9488_TEST_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... H:\GitHub\TFT-ILI9488-TEST\HARDWARE\ILI9488_TEST_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
